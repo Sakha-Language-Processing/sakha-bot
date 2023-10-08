@@ -1,4 +1,5 @@
 # PyTorch
+phonemizer
 torch
 torchaudio
 
