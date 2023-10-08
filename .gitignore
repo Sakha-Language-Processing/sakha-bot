@@ -1,3 +1,5 @@
+sah/
 venv/
+vits/
 .env
 *.pyc

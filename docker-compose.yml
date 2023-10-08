@@ -2,5 +2,5 @@ services:
   bot:
     build: .
     environment:
-      TOKEN: ${TG_TOKEN}
+      TG_TOKEN: ${TG_TOKEN}
     restart: always
