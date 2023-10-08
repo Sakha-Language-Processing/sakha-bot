@@ -1,0 +1,12 @@
+# PyTorch
+torch
+torchaudio
+
+# HuggingFace
+transformers
+
+# Работа с аудиофайлами
+librosa==0.8
+
+# Telegram-бот
+pyTelegramBotAPI
